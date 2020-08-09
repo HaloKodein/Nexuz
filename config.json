@@ -1,0 +1,20 @@
+{
+    "bot": {
+        "token": " ",
+        "secret": " ",
+        "ownerId": "557746795543789568",
+        "activity": "Music For You",
+        "id": "710623471792685157"
+    },
+    "api": {
+        "port": "3000",
+        "url": "https://nexuzbt.glitch.me/api",
+        "stripeSecretKey": "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"
+    },
+    "guild": {
+        "id": "710172695433707590",
+        "premiumRoleId": "742056046801191055"
+    },
+    "dashboardURL": "https://nexuzbt.glitch.me",
+    "mongoURL": "mongodb+srv://halo:rtXHYZJpeJbYh8X@cluster0.xwjbj.mongodb.net/2pg?retryWrites=true&w=majority"
+}
