@@ -1,5 +1,5 @@
 {
-  "name": "2pg",
+  "name": "Nexuz",
   "version": "1.0.0",
   "description": "Good bot",
   "main": "bot.ts",
@@ -18,7 +18,7 @@
     "npm": "6.x"
   },
   "keywords": [],
-  "author": "ADAMJR#0001",
+  "author": "HaloKodein",
   "license": "ISC",
   "dependencies": {
     "@lykmapipo/rate-limit-mongoose": "^0.1.32",
